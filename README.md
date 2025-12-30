@@ -80,4 +80,3 @@ This project demonstrates that machine learning models, particularly Random Fore
 ## Author
 Ch. Sowmya Sree  
 B.Tech – Computer Science and Engineering  
-SRM University AP
