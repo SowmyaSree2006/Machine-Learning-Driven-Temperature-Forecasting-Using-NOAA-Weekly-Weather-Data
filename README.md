@@ -1,6 +1,4 @@
 # Machine-Learning-Driven-Temperature-Forecasting-Using-NOAA-Weekly-Weather-Data
-A machine learning project that predicts average weekly temperatures using NOAA-based weather data. The model applies Random Forest regression to analyze relationships between temperature, wind, and precipitation, demonstrating an efficient data-driven approach to weather forecasting.
-# Machine Learning–Driven Temperature Forecasting
 
 ## Description
 This project uses machine learning techniques to predict average weekly temperatures using NOAA-based weather data. A Random Forest regression model is trained on historical weather features such as temperature extremes, wind speed, and precipitation to generate accurate and reliable forecasts.
